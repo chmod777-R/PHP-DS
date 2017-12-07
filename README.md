@@ -1,4 +1,8 @@
+### PHP-DS is very simple. You can learn it completely in 16 steps :) : https://github.com/insayd10/PHP-DS/wiki/Learn-PHP-DS-in-16-steps
+***
+
 # What is PHP-DS?
+**
 A completely different i18n experience!
 * Briefly
 
@@ -18,4 +22,4 @@ People would still be keeping a more accountable book. a software like excell ha
 
 * On the interface
 
-What is the interface? The concept of an interface is not limited to graphical interfaces. Although graphical interfaces make the end user's work easier, it is inadequate for "intermediate elaman" which is a new concept today. Araelemenlar, one of the users who like the end users who use the program one click above; a class that is one click away from code generators. Araelemenlar uses the code producers' products to address the end user. Wordpress is a code generator. One person who uses WordPress methods when preparing a template for Wordpress is Araeleman. At this point, the code generators are separate from the graphical interfaces for the intermediate elements, so that their products are more demanding; we need an interface development. With its interfaces, it can reach intermediate members from all walks of life, and ultimately reach the end user.
+What is the interface? The concept of an interface is not limited to graphical interfaces. Although graphical interfaces make the end user's work easier, it is inadequate for **"intermediate"** members which is a new concept today. Araelemenlar, one of the users who like the end users who use the program one click above; a class that is one click away from code generators. Araelemenlar uses the code producers' products to address the end user. Wordpress is a code generator. One person who uses WordPress methods when preparing a template for Wordpress is Araeleman. At this point, the code generators are separate from the graphical interfaces for the **intermediate** members, so that their products are more demanding; we need an interface development. With its interfaces, it can reach **intermediate** members from all walks of life, and ultimately reach the end user.
