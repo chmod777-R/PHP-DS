@@ -10,25 +10,25 @@ $x = new PHP_DS_SUPPORTED("example-lang/DE.PHP");
 // Lass uns unsere Einstellungen machen
 //----------------------------------------------------------------------------------------------------
 #Ändern Sie den Klassennamen
-$x->classe ="class_name";
+$x->classe ="klassenname";
 #Schlüsselart
-$x->verwenden="object";
+$x->verwenden="objekt";
 #Funktionsstandardanzeige
-$x->funktionen_d="A_Function";
+$x->funktionen_d="Eine_Funktion";
 #Variabler Standardindikator
-$x->variablen_d="A_Variable";
+$x->variablen_d="Eine_Variable";
 //----------------------------------------------------------------------------------------------------
 // Lass uns anfangen, unseren Code zu erstellen :)
 //----------------------------------------------------------------------------------------------------
 $x->code='  
-class class_name
+class klassenname
 {
-public $A_Variable1="its null";
-public function A_Function1()
+public $Eine_Variable1="its null";
+public function Eine_Funktion1()
 {
-  echo $this->A_Variable1;
+  echo $this->Eine_Variable1;
 }
-public function A_Function2()
+public function Eine_Funktion2()
 {
   echo "Hallo<br>";
 }
