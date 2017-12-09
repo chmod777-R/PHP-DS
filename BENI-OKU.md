@@ -1,5 +1,5 @@
 
-### PHP-DS çok basittir. 16 adımda tamamen öğrenebilirsiniz :) : https://github.com/insayd10/PHP-DS/wiki/Learn-PHP-DS-in-16-steps
+### PHP-DS çok basittir. 16 adımda tamamen öğrenebilirsiniz :) : https://github.com/insayd10/PHP-DS/wiki/PHP-DS'yi-16-ad%C4%B1mda-%C3%B6%C4%9Frenin
 ***
 
 # PHP-DS Nedir?
